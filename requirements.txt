@@ -5,7 +5,8 @@ scikit-learn==1.6.1
 scipy
 joblib
 plotly
-torch
-transformers
 pillow
+transformers
 requests
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch

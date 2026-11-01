@@ -382,3 +382,4 @@ NutriFood successfully demonstrates that personalized food recommendation can tr
 5. U.S. Department of Agriculture, Agricultural Research Service. (2024). *FoodData Central.* fdc.nal.usda.gov.
 6. Koren, Y., Bell, R., & Volinsky, C. (2009). *Matrix Factorization Techniques for Recommender Systems.* IEEE Computer, 42(8), 30-37.
 7. Pedregosa, F., et al. (2011). *Scikit-learn: Machine Learning in Python.* Journal of Machine Learning Research, 12, 2825-2830.
+
