@@ -1,0 +1,11 @@
+{
+    "project": "Personalized Nutrition-Aware Food Recommendation and Dietary Analytics System",
+    "phase": "5.1",
+    "recipe_count": 231637,
+    "tfidf_rows": 231637,
+    "tfidf_columns": 50000,
+    "vocabulary_size": 50000,
+    "model": "TF-IDF + Cosine Similarity",
+    "nutrition_scoring": "Nutrition-aware percentile scoring",
+    "dataset": "Food.com Recipes and Interactions"
+}

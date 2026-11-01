@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+.streamlit/secrets.toml
+*.pyc
+*.db-wal
+*.db-shm
+*.zip
+models/recipes.csv
